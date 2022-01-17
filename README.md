@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdulaihalidu
-- 👀 I’m interested in programming and content creating 
+- 👀 I’m interested in machine learning and web technologies 
 - 🌱 I’m currently a student at Karadeniz Technical University in Turkey 
 - 💞️ I’m looking to collaborate on a project 
 - 📫 How to reach me ... abdulaihalidu008@gmail.com
