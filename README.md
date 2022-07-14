@@ -23,6 +23,7 @@ I love programming and I enjoy learning new technologies
 
 ## sample Works
 <img src="https://github.com/abdulaihalidu/My-Portfolio/blob/main/src/assets/cheapbuy.png" width=600>
+<img src="https://github.com/abdulaihalidu/My-Portfolio/blob/main/src/assets/covidTrack.jpeg" width=600>
 
 <!---
 abdulaihalidu/abdulaihalidu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
