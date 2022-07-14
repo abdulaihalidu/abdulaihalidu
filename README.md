@@ -4,8 +4,6 @@ Hi, I’m @abdulaihalidu, a Computer Engineering Student at Karadeniz Technical 
 I am an athlete and I love playing football.
 My research Interest lies in machine learning, data science, and web application technologies.
 I love programming and I enjoy learning new technologies 
-Check out my linkedIn profile here: https://www.linkedin.com/in/halidu-abdulai-87994520a/
-Check out my youtube channel here: https://www.youtube.com/channel/UCtsjymuoJjlV7_OX36WPUIg
 
 Skills: PYTHON/C/C++/JAVASCRIPT/DJANGO/REACT.JS
 
