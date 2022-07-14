@@ -1,11 +1,24 @@
-- Hi, I’m @abdulaihalidu, a Computer Engineering Student at Karadeniz Technical University, Turkey. 
-- I am an altlete and I love playing football.
-- My research Interest lies in machine learning, data science,  and web application technologies.
-- I love programming and I particularly program in Python, C/C++, Javascript, and sometimes, Java.
-- I am open to contributing to, or collaborating on a project 
-- You can react out to me via my email address: abdulaihalidu008@gmail.com
-- Check out my linkedIn profile here: https://www.linkedin.com/in/halidu-abdulai-87994520a/
-- Check out my youtube channel here: https://www.youtube.com/channel/UCtsjymuoJjlV7_OX36WPUIg
+### Hi there 👋, I am Halidu Abdulai
+#### Athlete | Web Developer | Machine Learning Researcher  
+Hi, I’m @abdulaihalidu, a Computer Engineering Student at Karadeniz Technical University, Turkey.
+I am an athlete and I love playing football.
+My research Interest lies in machine learning, data science, and web application technologies.
+I love programming and I enjoy learning new technologies 
+Check out my linkedIn profile here: https://www.linkedin.com/in/halidu-abdulai-87994520a/
+Check out my youtube channel here: https://www.youtube.com/channel/UCtsjymuoJjlV7_OX36WPUIg
+
+Skills: PYTHON/C/C++/JAVASCRIPT/DJANGO/REACT.JS
+
+- 🌱 I’m currently learning Cloud computing  
+- 👯 I’m looking to collaborate on machine learning projects 
+- 📫 How to reach me: abdulaihalidu008@gmail.com 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I am addicted to playing football 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdulaihalidu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/halidu-abdulai-87994520a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/my_abc.official/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCtsjymuoJjlV7_OX36WPUIg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.halidu.herokuapp.com)  
+
+
 
 
 [![Abdulai's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulaihalidu)](https://github.com/anuraghazra/github-readme-stats)
