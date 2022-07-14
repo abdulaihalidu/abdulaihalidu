@@ -22,7 +22,7 @@ I love programming and I enjoy learning new technologies
 [![Abdulai's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulaihalidu)](https://github.com/anuraghazra/github-readme-stats)
 
 ## sample Works
-<img src="https://github.com/abdulaihalidu/My-Portfolio/blob/main/src/assets/cheapbuy.png" width=250>
+<img src="https://github.com/abdulaihalidu/My-Portfolio/blob/main/src/assets/cheapbuy.png" width=600>
 
 <!---
 abdulaihalidu/abdulaihalidu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
