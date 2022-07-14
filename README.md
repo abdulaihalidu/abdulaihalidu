@@ -1,4 +1,4 @@
-### Hi there 👋, I am Halidu Abdulai
+### Hello World! 👋, I am Halidu Abdulai
 #### Athlete | Web Developer | Machine Learning Researcher  
 Hi, I’m @abdulaihalidu, a Computer Engineering Student at Karadeniz Technical University, Turkey.
 I am an athlete and I love playing football.
