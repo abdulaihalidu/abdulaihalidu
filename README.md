@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @abdulaihalidu
 - 👀 I’m interested in machine learning and web technologies 
-- 🌱 I’m currently a student at Karadeniz Technical University in Turkey 
-- 💞️ I’m looking to collaborate on a project 
-- 📫 How to reach me ... abdulaihalidu008@gmail.com
+- 🌱 I’m currently a student at Karadeniz Technical University, Turkey 
+- 💞️ I am open to contributing to, or collaborating on a project 
+- 📫 How to reach me? abdulaihalidu008@gmail.com
+- 👔 [Connect with me on linkedIn] (https://www.linkedin.com/in/halidu-abdulai-87994520a/)
 
 <!---
 abdulaihalidu/abdulaihalidu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
