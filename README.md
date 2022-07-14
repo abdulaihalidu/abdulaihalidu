@@ -7,6 +7,9 @@
 - Check out my linkedIn profile here: https://www.linkedin.com/in/halidu-abdulai-87994520a/
 - Check out my youtube channel here: https://www.youtube.com/channel/UCtsjymuoJjlV7_OX36WPUIg
 
+
+[![Abdulai's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulaihalidu)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 abdulaihalidu/abdulaihalidu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
