@@ -21,7 +21,7 @@ I love programming and I enjoy learning new technologies
 
 [![Abdulai's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulaihalidu)](https://github.com/anuraghazra/github-readme-stats)
 
-## sample Works
+## Sample work
 <img src="https://github.com/abdulaihalidu/My-Portfolio/blob/main/src/assets/cheapbuy.png" width=600>
 <img src="https://github.com/abdulaihalidu/My-Portfolio/blob/main/src/assets/covidTrack.jpeg" width=600>
 
