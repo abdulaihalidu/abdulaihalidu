@@ -1,5 +1,5 @@
 ## Hello World👋! I am Halidu Abdulai
-### Athlete | Web Developer | Machine Learning Researcher  
+### Athlete | Software Engineer| Machine Learning Researcher  
 I am a  Computer Engineering Student at Karadeniz Technical University, Turkey.
 I am an athlete and I love playing football.
 My research Interest lies in machine learning, data science, and web application technologies.
