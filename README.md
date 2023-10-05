@@ -1,11 +1,11 @@
 ## Hello World👋! I am Halidu Abdulai
 ### Athlete | Software Engineer| Machine Learning Researcher  
-I am a  Computer Engineering Student at Karadeniz Technical University, Turkey.
+I am pursuing a Master's Degree in Data science and software engineering at Abo Academy University, Findland  under the Erasmus Mundus Joint Master's Degree Program (EDISS).
 I am an athlete and I love playing football.
 My research Interest lies in machine learning, data science, and web application technologies.
 I love programming and I enjoy learning new technologies 
 
-### Skills: PYTHON/C/C++/JAVASCRIPT/DJANGO/REACT.JS
+### Skills: C/C++/PYTHON/JAVASCRIPT/DJANGO/REACT.JS
 
 - 🌱 I’m currently learning Cloud computing  
 - 👯 I’m looking to collaborate on machine learning projects 
