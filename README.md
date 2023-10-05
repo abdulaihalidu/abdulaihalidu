@@ -1,6 +1,6 @@
 ## Hello World👋! I am Halidu Abdulai
 ### Athlete | Software Engineer| Machine Learning Researcher  
-I am pursuing a Master's Degree in Data science and software engineering at Abo Academy University, Findland  under the Erasmus Mundus Joint Master's Degree Program (EDISS).
+I am pursuing a Master's Degree in Data science and software engineering at Abo Academy University, Finland  under the Erasmus Mundus Joint Master's Degree Program (EDISS).
 I am an athlete and I love playing football.
 My research Interest lies in machine learning, data science, and web application technologies.
 I love programming and I enjoy learning new technologies 
