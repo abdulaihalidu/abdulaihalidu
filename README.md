@@ -9,7 +9,7 @@ I love programming and I enjoy learning new technologies
 
 - 🌱 I’m currently learning Cloud computing  
 - 👯 I’m looking to collaborate on machine learning projects 
-- 📫 How to reach me: abdulaihalidu008@gmail.com 
+- 📫 How to reach me: (LinkedIn:)[https://www.linkedin.com/in/halidu-abdulai/]
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I am addicted to playing football 
 
