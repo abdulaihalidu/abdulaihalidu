@@ -4,7 +4,7 @@ I completed the Erasmus Mundus Joint Master’s Degree Program (EDISS), earning 
 
 My research Interest Include Computer Vision and Natural Language Processing, with a particular focus on designing AI systems that 'understand' what they 'see', and can communicate in a natural language (with a specific application in the healthcare sector)
 
-### Skills: C/C++/PYTHON/JAVASCRIPT/DJANGO/REACT.JS
+### Skills: C/C++/Python/Pytorch/Tensorflow/Keras/OpenCV/Huggingface/MLFlow
 
 - ⚡ Fun fact: A huge fan of Football here
 
