@@ -1,5 +1,5 @@
 ## Hola, Hello, Merhaba👋! I am Halidu (Khalid)
-### AI in Healthcare | NLP| CV | Machine Learning Researcher  
+### AI in Healthcare | NLP | CV | Machine Learning Researcher  
 Completed the Erasmus Mundus Joint Master's Degree Program EDISS with a Master's Degree in Data science and software engineering from Abo Academy University, Finland and a Master's in Intelligent Systems with specialization in Computer Vision and Data Science from the University of the Balearic Islands, Spain.
 
 My research Interest Include Computer Vision and Natural Language Processing, with a particular focus on designing AI systems that 'understand' what they 'see', and can communicate in a natural language (with a specific application in the healthcare sector)
