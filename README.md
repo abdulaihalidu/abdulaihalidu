@@ -1,4 +1,4 @@
-## Hello World👋! I am Halidu Abdulai
+## Hola, Hello, Merhaba👋! I am Halidu (Khalid)
 ### AI in Healthcare | NLP| CV | Machine Learning Researcher  
 Completed the Erasmus Mundus Joint Master's Degree Program EDISS with a Master's Degree in Data science and software engineering from Abo Academy University, Finland and a Master's in Intelligent Systems with specialization in Computer Vision and Data Science from the University of the Balearic Islands, Spain.
 
